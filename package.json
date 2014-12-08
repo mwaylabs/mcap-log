@@ -1,7 +1,7 @@
 {
   "name": "mcap-log",
   "description": "The logging lib for mcap tooling",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/mwaylabs/mcap-log",
   "bugs": "https://github.com/mwaylabs/mcap-log/issues",
   "license": "MIT",
